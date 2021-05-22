@@ -27,7 +27,7 @@ struct HomeView: View {
                     }
                 )
             }
-            .navigationTitle("みつもりん")
+            .navigationTitle("みつ盛り")
             .navigationBarTitleDisplayMode(.inline)
         }
     }
